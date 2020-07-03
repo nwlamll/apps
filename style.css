@@ -13,7 +13,7 @@ body {
 .container {
   background-color: white;
   max-width: 80%;
-  height: 900px;
+  height: 95%;
   margin: 50px auto;
   border-radius: 8px;
   overflow: scroll;
@@ -36,10 +36,8 @@ body {
 
 .content {
     overflow: scroll;
-}
-
-.content {
-  padding: 50px;
+    font-size: 1.4em;
+    padding: 50px;
 }
 
 .content p {
